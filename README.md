@@ -1,3 +1,3 @@
 # LIVRO DE RECEITAS :man_cook:
 
-## Este é o livro de receitas da família Lima
+## Este é o livro de receitas da família Cruz
